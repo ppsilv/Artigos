@@ -1,7 +1,7 @@
 # Artigos
 Repositorio para os conteúdos produzidos para meus artigos
 
-
+```diff
 You simply need to be in your root folder and then add the submodule folder.
 
 ! - git submodule add <url>
