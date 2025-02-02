@@ -7,3 +7,6 @@
 [submodule "blink_led_pio_01"]
 	path = blink_led_pio_01
 	url = https://github.com/ppsilv/blink_led_pio_01.git
+[submodule "blink_led_pio_02"]
+	path = blink_led_pio_02
+	url = https://github.com/ppsilv/blink_led_pio_02.git
