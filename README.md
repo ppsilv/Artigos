@@ -8,7 +8,7 @@ You simply need to be in your root folder and then add the submodule folder.
  
 Now when you clone the project you simply need to init and update the submodule
 
-@@ - git submodule init
++ - git submodule init
 - git submodule update
 
 
