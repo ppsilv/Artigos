@@ -1,11 +1,12 @@
-.# Artigos
+# Artigos
 Repositorio para os conteúdos produzidos para meus artigos
 
 
 You simply need to be in your root folder and then add the submodule folder.
 
 # git submodule add <url>
-
+- ![#f03c15] git submodule add <url> `#f03c15`
+- 
 Now when you clone the project you simply need to init and update the submodule
 
 # git submodule init
